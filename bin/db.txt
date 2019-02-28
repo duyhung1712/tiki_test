@@ -1,0 +1,47 @@
+{
+  "product": [
+    {
+      "id": 10153608621680862,
+      "name": "iPhone X 64Gb Black",
+      "color": "Black",
+      "storage": "64GB",
+      "sale_price": 999,
+      "market_price": 1099,
+      "link": [
+        "photo_link_1",
+        "photo_link_2",
+        "photo_link_3"
+      ],
+      "description": "iPhone X is a smartphone designed, developed, and marketed by Apple Inc. It was the eleventh generation of the iPhone.",
+      "origin": "origin",
+      "factory_date": "2018-08-24 18:14:03",
+      "weight": 5.6
+    },
+    {
+      "id": 10153608621680863,
+      "name": "iPhone X 128Gb Yellow",
+      "color": "Yellow",
+      "storage": "128GB",
+      "sale_price": 950,
+      "market_price": 1050,
+      "link": [
+        "photo_link_4",
+        "photo_link_5",
+        "photo_link_6"
+      ],
+      "description": "iPhone X is a smartphone designed, developed, and marketed by Apple Inc. It was the eleventh generation of the iPhone.",
+      "origin": "origin",
+      "factory_date": "2018-06-20 10:56:29",
+      "weight": 6.6
+    }
+  ],
+  "combo": [
+    {
+      "name": "iPhone X",
+      "products": [
+        10153608621680862,
+        10153608621680863
+      ]
+    }
+  ]
+}
